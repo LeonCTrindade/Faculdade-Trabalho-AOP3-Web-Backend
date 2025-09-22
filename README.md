@@ -1,5 +1,5 @@
 # Faculdade-Trabalho-AOP3-Web-Backend
-Este repositório foi criado como parte da disciplina Arquitetura de Interoperabilidade Web, com o objetivo de demonstrar:  
+Este repositório foi criado como parte da disciplina Desenvolvimento WEB - Backend, com o objetivo de demonstrar:  
 O fluxo colaborativo de desenvolvimento utilizando Git e GitHub.
 
 # Objetivo do Projeto
