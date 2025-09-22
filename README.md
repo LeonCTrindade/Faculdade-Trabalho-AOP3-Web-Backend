@@ -18,8 +18,7 @@ main → branch principal, somente PRs aprovados.
 feature/<descrição> → novas funcionalidades.
 bugfix/<descrição> → correções.
 
-# Commits
-# Seguir padrão:
+# Commits - Seguir padrão:
 feat: descrição da funcionalidade
 fix: descrição da correção
 
